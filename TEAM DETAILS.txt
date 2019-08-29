@@ -1,0 +1,5 @@
+TEAM 6:
+ROLL_NO              NAME  
+2016-1018           ANKITA PANDEY
+2016-1019           SUKANTA SOM
+2016-1024           RAKESH RANJAN
